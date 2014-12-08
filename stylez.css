@@ -1,0 +1,42 @@
+@import url('bootstrap/css/bootstrap.css');
+@import url('bootstrap/css/bootstrap-responsive.css');
+@import url(http://fonts.googleapis.com/css?family=Quicksand|Lobster|Raleway:500);
+body{
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	background: #ecf0f1;
+}
+h1, h2, h3, h4{
+	font-family: 'Raleway', sans-serif;
+	padding: 20px;
+}
+section{
+    position: relative;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+}
+img{
+	width: 100%;
+}
+#one{
+background: #3498db;
+}
+#two{
+background: #ecf0f1;
+}
+#three{
+background: #3498db;
+}
+#four{
+background: #3498db;
+}
+#five{
+background: #ecf0f1;
+}
+#six{
+background: #3498db;
+}
+#seven{
+background: #3498db;
+}
