@@ -19,6 +19,9 @@ section{
 img{
 	width: 100%;
 }
+p{
+	padding: 20px;
+}
 #one{
 background: #3498db;
 }
